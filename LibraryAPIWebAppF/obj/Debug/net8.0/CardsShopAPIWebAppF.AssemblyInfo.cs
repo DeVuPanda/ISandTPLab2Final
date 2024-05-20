@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardsShopAPIWebAppF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ad4b20f67332915815a12207745bac2b3bf697")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardsShopAPIWebAppF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardsShopAPIWebAppF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

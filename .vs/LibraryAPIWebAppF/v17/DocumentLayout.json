@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|c:\\projects\\isandtplab2final\\libraryapiwebappf\\libraryapiwebappf\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|solutionrelative:libraryapiwebappf\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|c:\\projects\\isandtplab2final\\libraryapiwebappf\\libraryapiwebappf\\wwwroot\\js\\lab2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|solutionrelative:libraryapiwebappf\\wwwroot\\js\\lab2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|c:\\projects\\isandtplab2final\\libraryapiwebappf\\libraryapiwebappf\\controllers\\firmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|solutionrelative:libraryapiwebappf\\controllers\\firmscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|c:\\projects\\isandtplab2final\\libraryapiwebappf\\libraryapiwebappf\\models\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|solutionrelative:libraryapiwebappf\\models\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|c:\\projects\\isandtplab2final\\libraryapiwebappf\\libraryapiwebappf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED3D7BE-ADB4-4686-97C0-0FD4844D80F5}|LibraryAPIWebAppF\\CardsShopAPIWebAppF.csproj|solutionrelative:libraryapiwebappf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +42,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab2.js",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\js\\lab2.js",
+              "RelativeDocumentMoniker": "LibraryAPIWebAppF\\wwwroot\\js\\lab2.js",
+              "ToolTip": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\js\\lab2.js",
+              "RelativeToolTip": "LibraryAPIWebAppF\\wwwroot\\js\\lab2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T22:15:14.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\Index.html",
+              "RelativeDocumentMoniker": "LibraryAPIWebAppF\\wwwroot\\Index.html",
+              "ToolTip": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\Index.html",
+              "RelativeToolTip": "LibraryAPIWebAppF\\wwwroot\\Index.html",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-20T22:10:56.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryAPIWebAppF\\Program.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\Program.cs",
+              "RelativeToolTip": "LibraryAPIWebAppF\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:09:27.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FirmsController.cs",
               "DocumentMoniker": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\Controllers\\FirmsController.cs",
               "RelativeDocumentMoniker": "LibraryAPIWebAppF\\Controllers\\FirmsController.cs",
               "ToolTip": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\Controllers\\FirmsController.cs",
               "RelativeToolTip": "LibraryAPIWebAppF\\Controllers\\FirmsController.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAowGsAAAAAAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAkwFwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T18:42:15.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Firm.cs",
               "DocumentMoniker": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\Models\\Firm.cs",
               "RelativeDocumentMoniker": "LibraryAPIWebAppF\\Models\\Firm.cs",
@@ -51,7 +102,8 @@
               "RelativeToolTip": "LibraryAPIWebAppF\\Models\\Firm.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:42:22.099Z"
+              "WhenOpened": "2024-05-20T18:42:22.099Z",
+              "EditorCaption": ""
             }
           ]
         }

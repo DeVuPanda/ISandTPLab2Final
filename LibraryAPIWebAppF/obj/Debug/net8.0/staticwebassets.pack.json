@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\CardsShopAPIWebAppF.bundle.scp.css"
     },
     {
+      "Id": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
       "Id": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\js\\lab2.js",
+      "PackagePath": "staticwebassets\\js\\lab2.js"
     },
     {
       "Id": "C:\\Projects\\ISandTPLab2Final\\LibraryAPIWebAppF\\LibraryAPIWebAppF\\wwwroot\\js\\site.js",

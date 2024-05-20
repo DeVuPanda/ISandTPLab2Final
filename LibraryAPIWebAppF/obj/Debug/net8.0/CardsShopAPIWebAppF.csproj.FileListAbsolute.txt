@@ -250,3 +250,4 @@ C:\Projects\ISandTPLab2Final\LibraryAPIWebAppF\LibraryAPIWebAppF\obj\Debug\net8.
 C:\Projects\ISandTPLab2Final\LibraryAPIWebAppF\LibraryAPIWebAppF\obj\Debug\net8.0\CardsShopAPIWebAppF.pdb
 C:\Projects\ISandTPLab2Final\LibraryAPIWebAppF\LibraryAPIWebAppF\obj\Debug\net8.0\CardsShopAPIWebAppF.genruntimeconfig.cache
 C:\Projects\ISandTPLab2Final\LibraryAPIWebAppF\LibraryAPIWebAppF\obj\Debug\net8.0\ref\CardsShopAPIWebAppF.dll
+C:\Projects\ISandTPLab2Final\LibraryAPIWebAppF\LibraryAPIWebAppF\obj\Debug\net8.0\CardsShopAPIWebAppF.sourcelink.json
